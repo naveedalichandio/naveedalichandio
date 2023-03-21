@@ -42,6 +42,6 @@ My skills include proficiency in programming languages such as Solidity, JavaScr
 
 <p align="center">
 <a href="https://https://www.linkedin.com/in/naveed-ali-chandio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naveed%20Ali-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://https://instagram.com/naveedsahilchandio?igshid=ZDdkNTZiNTM="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-naveedsahilchandio-blue?style=flat-square&logo=instagram"></a>
+<a href="https://instagram.com/naveedsahilchandio?igshid=ZDdkNTZiNTM="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-naveedsahilchandio-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:naveedalichandio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-naveedalichandio@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
