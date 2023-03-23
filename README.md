@@ -2,12 +2,12 @@
 
 - 👨🏻‍💻 I am a Blockchain developer working on Smart Contract Development for more than 1 Year.
 - 💡 I like to explore new technologies, develop software solutions and love to work on Blockchian and Web3 development.
-- 🎓 I've a Master Degree in Computer Science from Bahauddin Zakariya University Multan.
-- 🌱 I'm on track to become a Full Stack Blockchian Engineer. Currently learning Web3Js.
+- 🎓 I've a Bachelors Degree in Information Technology from University Of Sindh, Jamshoro.
+- 🌱 I'm on track to become a Full Stack Blockchian Engineer.
 - ✍🏻 In my free time, I read about what's new in market and watch Football and Cricket.
 - 💬 Feel free to reach out to me for any type of Blockchain Development OR Smart Contract work in Solidity.
-- 📨 You can shoot me an email at iamtalha.sajid@gmail.com! I'll try to respond as soon as I can.
-- 🌐 You can visit my portfolio Website at www.talhasajid.dev
+- 📨 You can shoot me an email at naveedalichandio20@gmail.com! I'll try to respond as soon as I can.
+- 🌐 You can visit my portfolio Website at coming soon!
 
 ## ⚡ Tech Stack
 
@@ -20,7 +20,7 @@ Here are a few things I've picked up along my learning journey.
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ![MochaJS](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![ChaiJS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
@@ -34,6 +34,7 @@ Here are a few things I've picked up along my learning journey.
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![]()
 
+![MySQL](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white) ![]() ![]() ![]()
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![]() ![]() ![]()
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -55,16 +56,14 @@ Here are a few things I've picked up along my learning journey.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-## Talha Sajid's Github Stats
-<span> ![Talha's github stats](https://github-readme-stats.vercel.app/api?username=IamTalha-Sajid&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTalha-Sajid&theme=tokyonight)</span>
+## Naveed's Github Stats
+<span> ![Talha's github stats](https://github-readme-stats.vercel.app/api?username=naveedalichandio&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedalichandio&theme=tokyonight)</span>
 
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamtalhasajid/) ||
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamtalha.sajid@gmail.com) ||
-[![Skype](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/mjKWWdSnoV8c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed-ali-chandio/) ||
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveedalichandio20@gmail.com) ||
+[![Skype](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/naveed)
 
- or give some ♥ on [mail](mailto:iamtalha.sajid@gmail.com) .
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hassaantahir/hassaantahir) -->
+ or give some ♥ on [mail](mailto:naveedalichandio20@gmail.com).
