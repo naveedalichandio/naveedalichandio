@@ -57,7 +57,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## Naveed's Github Stats
-<span> ![Talha's github stats](https://github-readme-stats.vercel.app/api?username=naveedalichandio&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Naveed's github stats](https://github-readme-stats.vercel.app/api?username=naveedalichandio&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedalichandio&theme=tokyonight)</span>
 
 
