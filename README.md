@@ -1,69 +1,170 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am **Naveed Ali** ...
+# 👋 Hi, I'm Naveed Ali
 
-- 👨🏻‍💻 I am a Blockchain developer working on Smart Contract Development for more than 1 Year.
-- 💡 I like to explore new technologies, develop software solutions and love to work on Blockchian and Web3 development.
-- 🎓 I've a Bachelors Degree in Information Technology from University Of Sindh, Jamshoro.
-- 🌱 I'm on track to become a Full Stack Blockchian Engineer.
-- ✍🏻 In my free time, I read about what's new in market and watch Football and Cricket.
-- 💬 Feel free to reach out to me for any type of Blockchain Development OR Smart Contract work in Solidity.
-- 📨 You can shoot me an email at naveedalichandio20@gmail.com! I'll try to respond as soon as I can.
-- 🌐 You can visit my portfolio Website at coming soon!
+### Senior Backend Developer | Node.js | Microservices | Distributed Systems | FinTech | Blockchain
 
-## ⚡ Tech Stack
+I'm a **Senior Backend Developer with 5+ years of experience** building scalable backend systems, microservices, real-time applications, and distributed architectures across **IoT, FinTech, and Blockchain**.
 
-Here are a few things I've picked up along my learning journey.
+I enjoy solving complex backend problems, designing reliable distributed systems, and building services that can handle high concurrency and real-time workloads.
 
-![Blockchain](https://img.shields.io/badge/-blockchain-blue?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-![Solidity](https://img.shields.io/badge/-SOLIDITY-grey?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3JS](https://img.shields.io/badge/-web3JS-orange?style=for-the-badge&logo=web3dotjs&logoColor=white)
+Currently, I'm working on a large-scale industrial IoT platform, where I design and maintain microservices, event-driven systems, and real-time data pipelines.
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+---
 
-![MochaJS](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![ChaiJS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+## 🚀 What I Work With
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![]() ![]()
+* 🏗️ **Backend Architecture:** Microservices, Event-Driven Architecture, Distributed Systems, CQRS
+* ⚡ **Backend Development:** Node.js, TypeScript, JavaScript, NestJS, Express.js, Quarkus
+* 🔄 **Messaging & Streaming:** Apache Kafka, MQTT, WebSockets
+* 💳 **FinTech:** Stripe, Binance API, Bybit API
+* ⛓️ **Blockchain:** Ethereum, EVM, Solidity, Web3.js
+* 🗄️ **Databases:** MongoDB, MySQL, Redis
+* ☁️ **Cloud & DevOps:** AWS, Docker, Docker Compose, CI/CD, Linux
+* 🔐 **Security:** JWT, Authentication, Authorization, Input Validation, RBAC
+* 📡 **IoT:** MBus / M-Bus, Modbus RTU/TCP, Real-Time Telemetry
 
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![]()
+---
 
-![MySQL](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white) ![]() ![]() ![]()
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![]() ![]() ![]()
+## 💼 Professional Experience
 
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white) ![]() ![]()
+### Senior Backend Developer — IT22
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![]() ![]() ![]()
+**May 2025 – Present**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+Working on a scalable industrial IoT platform focused on real-time monitoring, control, and analytics.
 
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![]() ![]() ![]()
+* Developed and maintained **20+ microservices** using NestJS and Quarkus.
+* Designed event-driven architectures using **Apache Kafka and MQTT**.
+* Built systems processing **thousands of real-time device events per day**.
+* Integrated **MBus and Modbus** protocols for industrial device communication.
+* Developed telemetry ingestion APIs and real-time data pipelines.
+* Improved scalability, fault tolerance, and asynchronous processing across distributed services.
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### Backend Developer — Devfied
 
+**May 2022 – May 2025**
 
-## Naveed's Github Stats
-<span> ![Naveed's github stats](https://github-readme-stats.vercel.app/api?username=naveedalichandio&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedalichandio&theme=tokyonight)</span>
+* Built high-performance backend applications using **Node.js** and microservice architecture.
+* Developed RESTful APIs and optimized database queries, reducing API response times by **35%**.
+* Integrated **Binance, Bybit, and Stripe** APIs with production systems.
+* Implemented security practices including **JWT hardening, input validation, and role-based access control**.
+* Improved backend processing efficiency by approximately **30%**.
+* Researched and introduced modern frameworks and tooling to improve engineering productivity.
 
+### Web Developer — Net2Apps
 
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed-ali-chandio/) ||
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveedalichandio20@gmail.com) ||
-[![Skype](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/naveed)
+**March 2021 – April 2022**
 
- or give some ♥ on [mail](mailto:naveedalichandio20@gmail.com).
+* Designed scalable Node.js backend services supporting increasing traffic and data volumes.
+* Developed RESTful APIs and frontend integrations.
+* Optimized database indexing and queries, reducing data retrieval time by **40%**.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Runtimes
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+
+### Backend & Architecture
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge\&logo=quarkus\&logoColor=white)
+
+**Microservices · Distributed Systems · Event-Driven Architecture · CQRS · REST APIs · WebSockets · API Gateway**
+
+### Messaging & Streaming
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Blockchain & Web3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge\&logo=web3dotjs\&logoColor=white)
+
+**Ethereum · EVM · Solidity Smart Contracts · Web3.js**
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+**AWS EC2 · S3 · Lambda · CloudWatch · Docker Compose · CI/CD · Linux/Bash**
+
+### APIs & Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
+
+**REST · OpenAPI / Swagger · Stripe · Binance · Bybit**
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 🎯 Engineering Interests
+
+I'm particularly interested in:
+
+* Distributed and fault-tolerant backend systems
+* High-performance Node.js applications
+* Microservice architecture
+* Event-driven systems
+* FinTech and digital assets
+* Blockchain infrastructure
+* Peer-to-peer technologies
+* Real-time systems
+* Backend security and performance
+* Cloud-native architectures
+
+---
+
+## 🎓 Education
+
+**Bachelor of Information Technology**
+University of Sindh, Jamshoro
+2017 – 2020
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveedalichandio&show_icons=true&theme=tokyonight&count_private=true" alt="Naveed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedalichandio&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/naveed-ali-chandio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/naveedalichandio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:naveedalichandio20@gmail.com)
+
+---
+
+### ⚡ A little about me
+
+When I'm not building backend systems, I enjoy keeping up with new technologies, following developments in blockchain and digital finance, and watching football and cricket.
+
+**Always learning. Always building.**
